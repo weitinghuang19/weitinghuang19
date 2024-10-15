@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## About Me:
-- I'm a software developer passionate about AI, coding, and teaching.
-- Currently learning and exploring new technologies.
+- I'm a computer science student passionate about improving technology's usability and accessibility.
+- Currently learning and exploring AI and ML.
 - Fun fact: I love indoor cycling!
 
 ## Technical Skills:
