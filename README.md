@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Weiting Huang 👋
 
 <!--
 **weitinghuang19/weitinghuang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me:
+- I'm a software developer passionate about AI, coding, and teaching.
+- Currently learning and exploring new technologies.
+- Fun fact: I love indoor cycling!
+
+## Technical Skills:
+- Languages: Python, Java, C, MATLAB, JavaScript
+- Web Development: HTML, CSS, JavaScript
+
+## Projects:
+- [Project 1](https://github.com/weitinghuang19/project1)
+- [Project 2](https://github.com/weitinghuang19/project2)
+
+## Contact Me:
+- Email: weitinghuang19@gmail.com
