@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me:
+## About Me 🌱:
 - I'm a computer science student passionate about improving technology's usability and accessibility.
 - Currently learning and exploring AI and ML.
 - Fun fact: I love indoor cycling!
 
-## Technical Skills:
+## Technical Skills 💬:
 - Languages: Python, Java, C, MATLAB, JavaScript
 - Web Development: HTML, CSS, JavaScript
 
-## Projects:
+## Projects 🔭:
 - [Machine Learning: Detecting AI-generated images](https://github.gatech.edu/rwarner31/ML-Project)
-- [Project 2](https://github.com/weitinghuang19/project2)
 
-## Contact Me:
+## Contact Me 📫:
 - Email: weitinghuang19@gmail.com
