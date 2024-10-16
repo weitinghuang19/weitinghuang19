@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Web Development: HTML, CSS, JavaScript
 
 ## Projects:
-- [Project 1](https://github.com/weitinghuang19/project1)
+- [Machine Learning: Detecting AI-generated images](https://github.gatech.edu/rwarner31/ML-Project)
 - [Project 2](https://github.com/weitinghuang19/project2)
 
 ## Contact Me:
