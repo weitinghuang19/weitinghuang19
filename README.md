@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Projects 🔭:
 - [Machine Learning: Detecting AI-generated images](https://github.gatech.edu/rwarner31/ML-Project)
-- [Georgia Tech Campus Equity and Sustainabilitiy Tours][https://github.gatech.edu/rwarner31/ML-Project](https://tle9.github.io/GT-Equity-and-Sustainability-Tours/)
+- [Georgia Tech Campus Equity and Sustainabilitiy Tours][(https://tle9.github.io/GT-Equity-and-Sustainability-Tours/)]
 
 ## Contact Me 📫:
 - Email: weitinghuang19@gmail.com
