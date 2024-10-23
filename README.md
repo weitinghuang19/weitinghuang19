@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 - Fun fact: I love indoor cycling!
 
 ## Technical Skills 💬:
-- Languages: Python, Java, C, MATLAB, JavaScript
-- Web Development: HTML, CSS, JavaScript
+- Languages: Python, Java, C, MATLAB, JavaScript, Assembly
+- Web Development: HTML, CSS
 
 ## Projects 🔭:
 - [Machine Learning: Detecting AI-generated images](https://github.gatech.edu/rwarner31/ML-Project)
 - [Georgia Tech Campus Equity and Sustainabilitiy Tours](https://tle9.github.io/GT-Equity-and-Sustainability-Tours/)
+- [Information Visualization](https://github.gatech.edu/whuang364/information-visualization)
 
 ## Contact Me 📫:
 - Email: weitinghuang19@gmail.com
