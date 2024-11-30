@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## Projects 🔭:
 - [Machine Learning: Detecting AI-generated images](https://github.gatech.edu/rwarner31/ML-Project)
 - [Georgia Tech Campus Equity and Sustainabilitiy Tours](https://tle9.github.io/GT-Equity-and-Sustainability-Tours/)
-- [Voting Statistics Visualization](https://github.gatech.edu/weitinghuang19/Voting-Statistics-Visualization)
+- [Voting Statistics Visualization](https://github.com/weitinghuang19/Voting-Statistics-Visualization)
 
 ## Contact Me 📫:
 - Email: weitinghuang19@gmail.com
